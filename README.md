@@ -21,3 +21,11 @@
         <p>Curso de FastAPI: Introducción, Operaciones, Validaciones y Autenticación</p>
     </li>
 </ul>
+
+```dash
+apt update
+
+sudo apt update
+
+sudo apt -y upgrade
+```
