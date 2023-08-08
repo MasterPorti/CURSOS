@@ -28,4 +28,6 @@ apt update
 sudo apt update
 
 sudo apt -y upgrade
+
+sudo apt insstall -y python3-pip
 ```
